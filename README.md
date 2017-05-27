@@ -8,25 +8,17 @@ Tuesdays and Thursdays, May 23th 2016 through July 7th 2017, 10am
 
 Office hours: By appointment only.
 
-For FERPA reasons, I ask that you e-mail me [at my Columbia
-address](mailto:jt599@columbia.edu) when discussing any matters related to
-this class or your grade. Personal or professional inquiries can go to [my
-personal address](mailto:jthirkield@gmail.com).
+E-mail: [jt599@columbia.edu](mailto:jt599@columbia.edu)
 
 ## Description
 
-Working with data and databases requires not only gaining fluency in coding languages, but developing the ability to understand the particular structures and logics of the information space in which data exists. Through the introduction of the database language/application postgreSQL and the programming language Python, we will explore the varieties data types, structures and architectures along with the modes of thinking and kinds of knowledge that flow from working with data. Programmatically, this course will follow the path of data from storage (database building & architecture), to processing (query & transformation), to dissemination (streaming & application building). We
-will study several common metaphors for organizing and storing data – from
-structureless key-value stores, to a single table or spreadsheet, to the
-"multiple tables" of a relational database.  We will also discuss ideas behind
-publishing or sharing data, moving from HTML documents and Web 1.0 to data
-services and APIs in Web 2.0, to semantics in Web 3.0. As we go, we will consider the the kinds of knowledge we are producing as well as the social, ethical, and practical challenges of searching for meaning in a haystack of bits. 
+Working with data and databases requires not only gaining fluency in coding languages, but developing the ability to understand the particular structures and logics of the information space in which data exists. Through the introduction of the database language/application postgreSQL and the programming language Python, we will explore the varieties data types, structures and architectures along with the modes of thinking and kinds of knowledge that flow from working with data. Programmatically, this course will follow the path of data from storage (database building & architecture), to processing (query & transformation), to dissemination (streaming & application building). Conceptually, we will examine and discuss the process of developing data for machine and human readability: from developing taxonomies for understanding and structuring data sets, to ways in which data can be employed and disseminated as a means of storytelling. As we go, we will consider the the kinds of knowledge we are producing as well as the social, ethical, and practical challenges of searching for meaning in a haystack of bits. 
 
 
 ## Homework assignments
 
-There will be six homework assignments in this class, each assigned on Thursday
-and due the following Tuesday before the beginning of class. The homework
+There will be five homework assignments in this class and one final project. 
+The assignments will be posted on Thursday and due by class time the following Tuesday. The homework
 assignments are designed to test and expand your knowledge of the technical
 concepts introduced in class. Each homework assignment is worth 10% of your grade.
 
@@ -36,15 +28,14 @@ discuss the specifics of this in class.)
 
 ## Grading
 
-- 40% Attendance and participation
-- 60% Homework assignments (10% each)
+- 30% Attendance and participation
+- 50% 5 Homework assignments (10% each)
+- 20% Final project
 
 ## Schedule and notes
 
 ### Week 1 (May 23 and 25)
 
-* Orientation
-* Student introductions
 * SQL basics
 
 Homework #1 (due May 30): Read and respond to the following.
@@ -78,7 +69,6 @@ Homework #3 (due Jun 13): Web scraping
 
 * Working with unstructured data
 * List comprehensions
-  
 * Strings and regular expressions
 
 Homework #4 (due June 20): List comprehensions and regular expressions
@@ -91,11 +81,9 @@ Homework #5 (due June 27): SQL schema design
 
 ### Week 6 (June 27 and 29)
 
-* Making a Flask app
-
-Homework #6: Web applications
+* Final Project (Details to come)
 
 ### Week 7 (July 6 and 7)
 
 * APIs
-* Homework review
+* Final Projects
