@@ -50,7 +50,7 @@ The primary challenge when first working with database applications is to retool
 
 Read the Borges first, and then, as you read Castelle's essay, search for parts that evoke, align with, and/or contradict passages from Borges. These connections can be as literal or Impressionistic as you want them to be. Find between three and five connections between the two texts and for each connection write a brief paragraph describing how discovered and understand the overlap between the two. Your response should take the form of a brief e-mail [sent to me](mailto:jt599@columbia.edu).
 
-#Extra credit! (5 points)
+**Extra credit! (5 points)**
 
 To keep SQL fresh in your minds, I am offering a five point extra credit opportunity. [Please check my summary of the work we did in class here](http://floatingmedia.com/columbia/postgreSQLclass2.html). Then connect to the mondial database and explore the 'economy' table. For full credit do the following five queries.
 1. Find the top 10 countries by GDP using: SELECT -- FROM -- ORDER BY -- LIMIT --
