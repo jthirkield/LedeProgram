@@ -50,14 +50,14 @@ The primary challenge when first working with database applications is to retool
 
 Read the Borges first, and then, as you read Castelle's essay, search for parts that evoke, align with, and/or contradict passages from Borges. These connections can be as literal or Impressionistic as you want them to be. Find between three and five connections between the two texts and for each connection write a brief paragraph describing how discovered and understand the overlap between the two. Your response should take the form of a brief e-mail [sent to me](mailto:jt599@columbia.edu).
 
-Extra credit!
+#Extra credit! (5 points)
 
-To keep SQL fresh in your minds, I am offering a five point extra credit opportunity. Please check my summary of the work we did in class [here](http://floatingmedia.com/columbia/postgreSQLclass2.html). Then connect to the mondial database and explore the 'economy' table. For full credit do the following five queries.
+To keep SQL fresh in your minds, I am offering a five point extra credit opportunity. [Please check my summary of the work we did in class here](http://floatingmedia.com/columbia/postgreSQLclass2.html). Then connect to the mondial database and explore the 'economy' table. For full credit do the following five queries.
 1. Find the top 10 countries by GDP using: SELECT -- FROM -- ORDER BY -- LIMIT --
-2. get a list of countries with the GDP below 20000 using: SELECT -- FROM -- WHERE --
-3. get a list of countries sorted by the highest rates inflation: SELECT -- FROM -- ORDER BY -- DESC
+2. Get a list of countries with the GDP below 20000 using: SELECT -- FROM -- WHERE --
+3. Get a list of countries sorted by the highest rates inflation: SELECT -- FROM -- ORDER BY -- DESC
 4. List all countries with the majority of their GDP coming from agriculture: SELECT -- FROM -- WHERE --
-5. create hey list of countries in order of highest unemployment, and join the table with the country table so you get the names of the countries not the country code: SELECT -- FROM -- JOIN - ON -- ORDER BY --
+5. Create hey list of countries in order of highest unemployment, and join the table with the country table so you get the names of the countries not the country code: SELECT -- FROM -- JOIN - ON -- ORDER BY --
 
 Please copy and paste your terminal session into a text document and email that document to the TAs.
 
