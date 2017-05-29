@@ -36,7 +36,14 @@ discuss the specifics of this in class.)
 
 ### Week 1 (May 23 and 25)
 
-* SQL basics
+* SQL basics: Links and Summaries
+-[day one intro](http://floatingmedia.com/columbia/postgresIntro.html)
+-[day two notes](http://floatingmedia.com/columbia/postgreSQLclass2.html)
+-[Cheat sheet 1](https://github.com/jthirkield/LedeProgram/blob/master/SQL-cheat_sheet1.pdf)
+-[Cheat sheet 2](https://github.com/jthirkield/LedeProgram/blob/master/SQL-cheat_sheet1.pdf)
+-[Extra PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
+-[Their more complete cheat sheet](http://www.postgresqltutorial.com/postgresql-cheat-sheet/)
+-[PostgreSQL documentation](https://www.postgresql.org/docs/9.6/static/index.html)
 
 Homework #1 (due May 30): Read and respond to the following.
 
@@ -64,9 +71,8 @@ Please copy and paste your terminal session into a text document and email that 
 ### Week 2 (May 30 and June 1)
 
 * SQL continued
-* IPython/Jupyter Notebooks.
-* CSV to SQL
-* SQL via IPython using pg8000
+* CSV to SQL: [UN data](http://data.un.org/Explorer.aspx) 
+* SQL via IPython using [pg8000](http://pythonhosted.org/pg8000/)
   
 Homework #2 (due June 5): Working with SQL
 
