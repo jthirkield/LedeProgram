@@ -37,13 +37,13 @@ discuss the specifics of this in class.)
 ### Week 1 (May 23 and 25)
 
 * SQL basics: Links and Summaries
--[day one intro](http://floatingmedia.com/columbia/postgresIntro.html)
--[day two notes](http://floatingmedia.com/columbia/postgreSQLclass2.html)
--[Cheat sheet 1](https://github.com/jthirkield/LedeProgram/blob/master/SQL-cheat_sheet1.pdf)
--[Cheat sheet 2](https://github.com/jthirkield/LedeProgram/blob/master/SQL-cheat_sheet1.pdf)
--[Extra PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
--[Their more complete cheat sheet](http://www.postgresqltutorial.com/postgresql-cheat-sheet/)
--[PostgreSQL documentation](https://www.postgresql.org/docs/9.6/static/index.html)
+- [day one intro](http://floatingmedia.com/columbia/postgresIntro.html)
+- [day two notes](http://floatingmedia.com/columbia/postgreSQLclass2.html)
+- [Cheat sheet 1](https://github.com/jthirkield/LedeProgram/blob/master/SQL-cheat_sheet1.pdf)
+- [Cheat sheet 2](https://github.com/jthirkield/LedeProgram/blob/master/SQL-cheat_sheet1.pdf)
+- [Extra PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
+- [Their more complete cheat sheet](http://www.postgresqltutorial.com/postgresql-cheat-sheet/)
+- [PostgreSQL documentation](https://www.postgresql.org/docs/9.6/static/index.html)
 
 Homework #1 (due May 30): Read and respond to the following.
 
