@@ -57,7 +57,7 @@ To keep SQL fresh in your minds, I am offering a five point extra credit opportu
 2. Get a list of countries with the GDP below 20000 using: SELECT -- FROM -- WHERE --
 3. Get a list of countries sorted by the highest rates inflation: SELECT -- FROM -- ORDER BY -- DESC
 4. List all countries with the majority of their GDP coming from agriculture: SELECT -- FROM -- WHERE --
-5. Create hey list of countries in order of highest unemployment, and join the table with the country table so you get the names of the countries not the country code: SELECT -- FROM -- JOIN - ON -- ORDER BY --
+5. Create a list of countries in order of highest unemployment, and join the table with the country table so you get the names of the countries not the country code: SELECT -- FROM -- JOIN - ON -- ORDER BY --
 
 Please copy and paste your terminal session into a text document and email that document to the TAs.
 
