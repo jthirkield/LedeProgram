@@ -71,7 +71,7 @@ Please copy and paste your terminal session into a text document and email that 
 ### Week 2 (May 30 and June 1)
 
 * SQL continued
-* CSV to SQL: [UN data](http://data.un.org/Explorer.aspx) 
+* CSV to SQL: [instructions](http://floatingmedia.com/columbia/csv_to_sql.html) Try to get both the wind and solar tables in by Thursday
 * SQL via IPython using [pg8000](http://pythonhosted.org/pg8000/)
   
 Homework #2 (due June 5): Working with SQL
