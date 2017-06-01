@@ -76,6 +76,11 @@ Please copy and paste your terminal session into a text document and email that 
   
 Homework #2 (due June 5): Working with SQL
 
+
+Download and work through this [iPython notebook file](). For your reference you can also read and play with the [SQL in Python]() file.
+
+There're also two readings: an essay from the collection "Raw Data is an Oxymoron" and a recent blog post by Dana Boyd on [data journalism and the election](https://points.datasociety.net/reality-check-de447f2131a3). I have posted the first reading "facts and FACTS": Abolitionists' Database Innovations" by Elen Gruber Garvey on slack along with a link to the blog post.
+
 ### Week 3 (June 5 and 7)
 
 * Scraping HTML with Beautiful Soup
