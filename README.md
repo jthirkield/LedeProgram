@@ -85,11 +85,14 @@ There're also two readings: an essay from the collection "Raw Data is an Oxymoro
 
 * Scraping HTML with Beautiful Soup
 
-Homework #3 (due Jun 13): Web scraping
+(Homework #3)[https://github.com/jthirkield/LedeProgram/blob/master/Homework_3.ipynb] (due Jun 13): Web scraping
+
+Reading: [Quantitative Formalism: An Experiment] (https://litlab.stanford.edu/LiteraryLabPamphlet1.pdf), Franco Moretti et all, from the Stanford Literary Lab. This reading is to get you thinking about how computational searches can yield meaningful results.
 
 ### Week 4 (June 13 and 15)
 
 * Working with unstructured data
+* Functions
 * List comprehensions
 * Strings and regular expressions
 
