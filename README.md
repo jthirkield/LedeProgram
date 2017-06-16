@@ -6,10 +6,6 @@ Tuesdays and Thursdays, May 23th 2016 through July 7th 2017, 10am
 
 [Jonathan Thirkield](http://www.floatingmedia.com/), instructor.
 
-Office hours: By appointment only.
-
-E-mail: [jt599@columbia.edu](mailto:jt599@columbia.edu)
-
 ## Description
 
 Working with data and databases requires not only gaining fluency in coding languages, but developing the ability to understand the particular structures and logics of the information space in which data exists. Through the introduction of the database language/application postgreSQL and the programming language Python, we will explore the varieties data types, structures and architectures along with the modes of thinking and kinds of knowledge that flow from working with data. Programmatically, this course will follow the path of data from storage (database building & architecture), to processing (query & transformation), to dissemination (streaming & application building). Conceptually, we will examine and discuss the process of developing data for machine and human readability: from developing taxonomies for understanding and structuring data sets, to ways in which data can be employed and disseminated as a means of storytelling. As we go, we will consider the the kinds of knowledge we are producing as well as the social, ethical, and practical challenges of searching for meaning in a haystack of bits. 
@@ -17,98 +13,4 @@ Working with data and databases requires not only gaining fluency in coding lang
 
 ## Homework assignments
 
-There will be five homework assignments in this class and one final project. 
-The assignments will be posted on Thursday and due by class time the following Tuesday. The homework
-assignments are designed to test and expand your knowledge of the technical
-concepts introduced in class. Each homework assignment is worth 10% of your grade.
-
-With the exception of the first one, all homework assignments will take the form of
-an IPython Notebook that you fill in and send to a TA for grading. (We'll
-discuss the specifics of this in class.)
-
-## Grading
-
-- 30% Attendance and participation
-- 50% 5 Homework assignments (10% each)
-- 20% Final project
-
-## Schedule and notes
-
-### Week 1 (May 23 and 25)
-
-* SQL basics: Links and Summaries
-- [day one intro](http://floatingmedia.com/columbia/postgresIntro.html)
-- [day two notes](http://floatingmedia.com/columbia/postgreSQLclass2.html)
-- [Cheat sheet 1](https://github.com/jthirkield/LedeProgram/blob/master/SQL-cheat_sheet1.pdf)
-- [Cheat sheet 2](https://github.com/jthirkield/LedeProgram/blob/master/SQL-cheat_sheet1.pdf)
-- [Extra PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
-- [Their more complete cheat sheet](http://www.postgresqltutorial.com/postgresql-cheat-sheet/)
-- [PostgreSQL documentation](https://www.postgresql.org/docs/9.6/static/index.html)
-
-Homework #1 (due May 30): Read and respond to the following.
-
-* [The Library of Babel](https://libraryofbabel.info/Borges/libraryofbabel.pdf)
-  by Jorge Luis Borges
-
-* [Relational and Non-Relational Models in the Entextualization of Bureaucracy](http://computationalculture.net/article/relational-and-non-relational-models-in-the-entextualization-of-bureaucracy)
-  by Michael Castelle
-
-The primary challenge when first working with database applications is to retool your mind so you are able to imagine how to see/understand how the database works in the essentially invisible space of computer memory. The Catelle's essay is a practical, historical, and theoretical introduction to the rise of the relational database. The Borges' story from 1934 is often cited along with other works by Borges' (such as "The Garden of Forking Paths") as a prophetic imagining of the Internet. How close was Borges to accurately predict the database? This is an open question, story wasn't trying to predict anything, but instead was imagining a metaphorical space for storing an infinite amount information.
-
-Read the Borges first, and then, as you read Castelle's essay, search for parts that evoke, align with, and/or contradict passages from Borges. These connections can be as literal or Impressionistic as you want them to be. Find between three and five connections between the two texts and for each connection write a brief paragraph describing how discovered and understand the overlap between the two. Your response should take the form of a brief e-mail [sent to me](mailto:jt599@columbia.edu).
-
-**Extra credit! (5 points)**
-
-To keep SQL fresh in your minds, I am offering a five point extra credit opportunity. [Please check my summary of the work we did in class here](http://floatingmedia.com/columbia/postgreSQLclass2.html). Then connect to the mondial database and explore the 'economy' table. For full credit do the following five queries.
-1. Find the top 10 countries by GDP using: SELECT -- FROM -- ORDER BY -- LIMIT --
-2. Get a list of countries with the GDP below 20000 using: SELECT -- FROM -- WHERE --
-3. Get a list of countries sorted by the highest rates inflation: SELECT -- FROM -- ORDER BY -- DESC
-4. List all countries with the majority of their GDP coming from agriculture: SELECT -- FROM -- WHERE --
-5. Create a list of countries in order of highest unemployment, and join the table with the country table so you get the names of the countries not the country code: SELECT -- FROM -- JOIN - ON -- ORDER BY --
-
-Please copy and paste your terminal session into a text document and email that document to the TAs.
-
-### Week 2 (May 30 and June 1)
-
-* SQL continued
-* CSV to SQL: [instructions](http://floatingmedia.com/columbia/csv_to_sql.html) Try to get both the wind and solar tables in by Thursday
-* SQL via IPython using [pg8000](http://pythonhosted.org/pg8000/)
-  
-Homework #2 (due June 5): Working with SQL
-
-
-Download and work through this [iPython notebook file](https://github.com/jthirkield/LedeProgram/blob/master/Homework_2.ipynb). For your reference you can also read and play with the [SQL in Python](https://github.com/jthirkield/LedeProgram/blob/master/SQL_in_Python.ipynb) file.
-
-There're also two readings: an essay from the collection "Raw Data is an Oxymoron" and a recent blog post by Dana Boyd on [data journalism and the election](https://points.datasociety.net/reality-check-de447f2131a3). I have posted the first reading "facts and FACTS": Abolitionists' Database Innovations" by Elen Gruber Garvey on slack along with a link to the blog post.
-
-### Week 3 (June 5 and 7)
-
-* Scraping HTML with Beautiful Soup
-
-[Homework #3](https://github.com/jthirkield/LedeProgram/blob/master/Homework_3.ipynb) (due Jun 13): Web scraping
-
-Reading: [Quantitative Formalism: An Experiment](https://litlab.stanford.edu/LiteraryLabPamphlet1.pdf), Franco Moretti et all, from the Stanford Literary Lab. This reading is to get you thinking about how computational searches can yield meaningful results.
-
-### Week 4 (June 13 and 15)
-
-* Working with unstructured data
-* Functions
-* List comprehensions
-* Strings and regular expressions
-
-Homework #4 (due June 20): List comprehensions and regular expressions
-
-### Week 5 (June 20 and 21)
-
-* HTML to SQL
-
-Homework #5 (due June 27): SQL schema design
-
-### Week 6 (June 27 and 29)
-
-* Final Project (Details to come)
-
-### Week 7 (July 6 and 7)
-
-* APIs
-* Final Projects
+The detailed homework assignments and weekly syllabus has been migrated to Columbia's courseworks site, please login to courseworks for updated details. These github pages will still host updated course files, but I encourage you to use courseworks for that as well.
